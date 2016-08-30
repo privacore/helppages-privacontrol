@@ -1,4 +1,4 @@
-Quick guide for Privacontrol browser feature
+#Quick guide for Privacontrol browser feature
 
 
 ## A hand - the browser toolbar icon
