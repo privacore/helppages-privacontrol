@@ -1,11 +1,11 @@
 #Formatting Markup
 
 ##Ordered list
-When listing steps in a guide it should look like this:
-1. Make my changes
-2. Open a pull request
-    3. Mention all the members of my team  
-3. Describe my changes  
+When listing steps in a guide it should look like this:  
+1. Make my changes  
+2. Open a pull request  
+3. Mention all the members of my team  
+4. Describe my changes  
     -  Mention all the members of my team  
       - Nice 
 
