@@ -12,6 +12,11 @@ When listing steps in a guide it should look like this:
   * Mention all the members of my team
     * Ask for feedback
 
+**1. One**
+2. Two
+3. Three
+
+
 ##Bullet lists
 - Make my changes  
    - Fix bug
