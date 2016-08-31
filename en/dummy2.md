@@ -3,17 +3,15 @@
 ##Ordered list
 When listing steps in a guide it should look like this:
 1. Make my changes
-  1. Fix bug
-  2. Improve formatting
-    * Make the headings bigger
-2. Push my commits to GitHub
-3. Open a pull request
-  * Describe my changes
-  * Mention all the members of my team
-    * Ask for feedback
+2. Open a pull request
+    3. Mention all the members of my team  
+3. Describe my changes  
+    -  Mention all the members of my team  
+      - Nice 
 
-**1. One**
-2. Two
+
+**1. One**  
+2. Two  
 3. Three
 
 
