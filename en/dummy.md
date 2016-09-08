@@ -31,11 +31,27 @@ She packed her seven versalia, put her initial into the belt and made herself on
 
 ####Even the all-powerful Pointing
  But nothing the copy said could convince her and so it didn’t take long until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again and again. And if she hasn’t been rewritten, then they are still using her. Far far away, behind the word mountains, far from the countries
+ 
+
 
 ####Decided to leave  
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing.  
 
-Convince her and so it didn’t take long Until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again an  almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and me.  
+Convince her and so it didn’t take long Until a few insidious Copy Writers ambushed her, made her drunk with Longe and Parole and dragged her into their agency, where they abused her for their projects again an  almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.  
+> The Big Oxmox advised her not to do so. 
+
+:star: ***Important:**  
+Because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and me*
+
+###Step-by-step
+
+1. One 
+2. Two  
+2. Wild Question Marks and devious Semikoli
+4. Three   
+3. Four 
+4. Five
+
 
 ---  
 ##The copy warned the Little Blind Text  
