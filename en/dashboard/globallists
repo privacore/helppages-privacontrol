@@ -1,0 +1,34 @@
+# Global Privacy Lists
+
+The 3rd-party filters pane is where you subscribe to filter lists. The filter lists to which you subscribe will feed Privacontrols static filtering engine.
+
+The picture below shows Privacontrols's default selection of filter lists. You can add more, or remove some of the filter lists already selected by default (for reference, most other blockers have only EasyList selected).
+
+If you remove filter lists, it is still strongly advised to at least keep Privacontrol filters selected: these filters are optimized for Privacontrol.
+
+The more filter lists one add, the higher the likelihood some web pages may not render properly. When this occurs, you may want to report the issue to the maintainers of the filter list causing the issue, or create your own exception filters to fix the issue.  
+
+##Auto-update filter lists  
+If you check this option, Privacontrol will update automatically the currently selected filter lists at regular interval. This option is checked by default (recommended).
+
+Filter lists are automatically updated roughly every 4-5 days, or when a new version is available.
+
+
+##Update now  
+This button is available for use if and only if there is at least one filter list which is deemed outdated. If this condition is fulfilled, you can force an update of all filter lists which are deemed out of date.
+
+When a filter list has been updated using a newer version from its remote location, a button purge cache will be available for that filter list. You can force an update of a single filter list by purging the cache of that filter list only -- by clicking its purge cache button. This will cause the "Update now" button to become available for use.  
+
+## Purge all caches  
+This will remove all locally cached copies of filter lists. Essentially, this will cause all filter lists to become out of date. This can be used to force an update of all filter lists.  
+
+##Parse and enforce cosmetic filters  
+Un-check this option if you do not want cosmetic filters to be parsed and enforced. This option is mostly of interest for those who want to further reduce uBlock Origin's memory and CPU footprint. Cosmetic filtering has no value privacy-wise, its only purpose is to hide elements on a web page which can't be blocked otherwise. An example of this are the ads served with some Google Search results.
+
+Note that disabling this option will also cause your own custom cosmetic filters (if any) to be ignored.  
+
+##Third-party filter lists
+This is a collection of various filter lists, grouped by purpose. To use a specific filter list, just select it through its checkbox. Any change in the selection of filter lists must be committed by using the Apply change button, which will appear if and only if the current selection of filter lists differs from the previous selection of filter lists.  
+
+##Custom filter lists  
+You can import custom 3rd-party filter lists: just paste in the text area the URL of where a filter lists can be fetched. These custom filter lists will be also automatically updated on a regular basis.
