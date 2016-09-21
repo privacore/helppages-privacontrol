@@ -1,4 +1,4 @@
-#Setings in the dashboard
+#Settings in the dashboard
 
 The settings dashboard have 5 tabs
 
