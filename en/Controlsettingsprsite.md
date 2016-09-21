@@ -1,9 +1,10 @@
-#Control tracking pr. site  
+#Settings pr. site  
 Privacontrol gives you the option to control tracking on each site you visit individually. You might trust some publishers more, and want to help them producre the content of theirs, and therefor allow ads on their site, or add a custom filer for a specific site you trust.
 
-##The add-on in the browser menu has swithces for 
+##Swhitch lists on and off pr. site
 1)Global privacy lists 
-2)Your personal custom filters
+2)My Filters  
+Your personal custom filters, you can see which ones in [Dasboard] My Filters
 
 
 ##Whitelisting a site
