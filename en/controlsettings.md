@@ -18,3 +18,4 @@ You might also use it if you have problems viewing th content due to some blocki
 Globally pauses blocking, this in NOT only for this site.  
 
 ###Control global settings in the [Dashboard] 
+See the dashboard
